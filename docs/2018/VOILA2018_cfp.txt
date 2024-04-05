@@ -1,0 +1,82 @@
+CALL FOR REGULAR & *** SPECIAL THEME *** CONTRIBUTIONS
+
+VOILA 2018 - Visualization and Interaction for Ontologies and Linked Data
+
+4th International Workshop at ISWC 2018, 17th International Semantic Web Conference
+October 8, 2018, Monterey, CA, USA
+
+http://voila2018.visualdataweb.org
+
+--------------------------------------------------
+Abstracts Deadline: May 25, 2018
+Submission Deadline: June 1, 2018
+--------------------------------------------------
+
+
+Apart from looking for submissions addressing regular VOILA!'s topics of interest, this year the VOILA! workshop is featuring a special theme and we welcome contributions in connection to it.
+
+
+*** Special Theme *** & Topics of Interest
+==========
+
+This year, we plan to have a dedicated look on empirical evidence on the benefits and limitations of visualizations and interactions in the context of the Semantic Web. We are particularly interested in success and failure stories, in learning which visualization and interaction approaches work and which do not - to which extent and in which contexts. We would like to hear about novel research findings and insights, backed with empirical data from user studies and use cases. Submissions addressing this special theme could include one or more of the following:
+- success stories
+- failure stories
+- empirical studies
+
+We also welcome other research contributions providing empirical evidence that advances the field.
+
+Apart from that - and as in the last years -, we are looking for submissions addressing one or more of the following topics, subjects, and contexts (or related ones):
+
+* Topics:
+	- visualizations
+	- user interfaces
+	- visual analytics
+	- requirements analysis
+	- case studies
+	- user evaluations
+	- cognitive aspects
+	
+* Subjects:
+	- ontologies
+	- linked data
+	- ontology engineering (development, collaboration, ontology design patterns, alignment, debugging, evolution, provenance, etc.)
+	
+* Contexts:
+	- classical interaction contexts (desktop, keyboard, mouse, etc.)
+	- novel interaction contexts (mobile, touch, gesture, etc.)
+	- special settings (large, high-resolution, and multiple displays, etc.)
+	- specific user groups and needs (people with disabilities, domain experts, etc.) 
+
+
+Submission Guidelines
+==========
+
+Paper submission and reviewing for this workshop will be electronic via EasyChair. The papers should be written in English, following the Springer LNCS format, and be submitted in either PDF or in HTML on or before June 1, 2018. Paper abstracts are due by May 25, 2018.
+
+The following types of contributions are welcome. The recommended page length is given in brackets. There is no strict page limit but the length of a paper should be commensurate with its contribution.
+
+    Full research papers (8-12 pages);
+    Experience papers (8-12 pages);
+    Position papers (6-8 pages);
+    Short research papers (4-6 pages);
+    System papers (4-6 pages).
+
+Accepted papers will be published as a volume in the CEUR Workshop Proceedings series.
+
+
+Important Dates
+==========
+
+Abstract: May 25, 2018
+Submission: June 1, 2018
+Notification: June 27, 2018
+Camera-ready: July 20, 2018
+Workshop: October 8, 2018
+
+
+
+Looking forward to your submissions & meeting you there!
+
+ Catia, Patrick, Steffen, Valentina
+

@@ -1,0 +1,118 @@
+CALL FOR PAPERS
+
+VOILA 2017 - Visualization and Interaction for Ontologies and Linked Data
+
+3rd International Workshop at ISWC 2017, 16th International Semantic Web Conference
+October 22, 2017, Vienna, Austria
+
+http://voila2017.visualdataweb.org
+
+--------------------------------------------------
+Abstracts Deadline: July 14, 2017
+Submission Deadline: July 21, 2017
+--------------------------------------------------
+
+
+Motivation and Objectives
+==========
+
+'A picture is worth a thousand words', we often say, yet many areas are in demand of sophisticated visualization techniques, and the Semantic Web is not an exception. The size and complexity of ontologies and Linked Data in the Semantic Web constantly grows and the diverse backgrounds of the users and application areas multiply at the same time. Providing users with visual representations and intuitive interaction techniques can significantly aid the exploration and understanding of the domains and knowledge represented by ontologies and Linked Data.
+
+Ontology visualization is not a new topic and a number of approaches have become available in recent years, with some being already well-established, particularly in the field of ontology modeling. In other areas of ontology engineering, such as ontology alignment and debugging, although several tools have been developed, few provide a graphical user interface, not to mention navigational aids or comprehensive visualization and interaction techniques.
+
+In the presence of a huge network of interconnected resources, one of the challenges faced by the Linked Data community is the visualization of multidimensional datasets to provide for efficient overview, exploration and querying tasks, to mention just a few. With the focus shifting from a Web of Documents to a Web of Data, changes in the interaction paradigms are in demand as well. Novel approaches also need to take into consideration the technological challenges and opportunities given by new interaction contexts, ranging from mobile, touch, and gesture interaction to visualizations on large displays, and encompassing highly responsive web applications.
+
+There is no one-size-fits-all solution but different use cases demand different visualization and interaction techniques. Ultimately, providing better user interfaces, visual representations and interaction techniques will foster user engagement and likely lead to higher quality results in different applications employing ontologies and proliferate the consumption of Linked Data.
+
+
+Topics of Interest
+==========
+
+Topics, subjects, and contexts of interest include (but are not limited to):
+
+* Topics:
+	- visualizations
+	- user interfaces
+	- visual analytics
+	- requirements analysis
+	- case studies
+	- user evaluations
+	- cognitive aspects
+	
+* Subjects:
+	- ontologies
+	- linked data
+	- ontology engineering (development, collaboration, ontology design patterns, alignment, debugging, evolution, provenance, etc.)
+	
+* Contexts:
+	- classical interaction contexts (desktop, keyboard, mouse, etc.)
+	- novel interaction contexts (mobile, touch, gesture, etc.)
+	- special settings (large, high-resolution, and multiple displays, etc.)
+	- specific user groups and needs (people with disabilities, domain experts, etc.) 
+
+
+Submission Guidelines
+==========
+
+Paper submission and reviewing for this workshop will be electronic via EasyChair. The papers should be written in English, following the Springer LNCS format, and be submitted in either PDF or in HTML on or before July 21, 2017. Paper abstracts are due by July 14, 2017.
+
+The following types of contributions are welcome. The recommended page length is given in brackets. There is no strict page limit but the length of a paper should be commensurate with its contribution.
+
+    Full research papers (8-12 pages);
+    Experience papers (8-12 pages);
+    Position papers (6-8 pages);
+    Short research papers (4-6 pages);
+    System papers (4-6 pages).
+
+Accepted papers will be published as a volume in the CEUR Workshop Proceedings series.
+
+
+Important Dates
+==========
+
+Abstracts: July 14, 2017
+Submission: July 21, 2017
+Notification: August 24, 2017
+Camera-ready: September 13, 2017
+Workshop: October 21 or 22, 2017
+
+
+Organizers
+==========
+
+Valentina Ivanova, Linköping University, Sweden
+Patrick Lambrix, Linköping University, Sweden
+Steffen Lohmann, Fraunhofer IAIS, Germany
+Catia Pesquita, University of Lisbon, Portugal
+
+
+Programme Committee
+==========
+
+Craig Anslow, Victoria University of Wellington, New Zealand
+Benjamin Bach, Edinburgh University, UK 
+Isabel F. Cruz, University of Illinois at Chicago, USA 
+Aba-Sah Dadzie, Knowledge Media Institute, The Open University, UK 
+Aidan Delaney, University of Brighton, UK 
+Marek Dudáš, University of Economics, Prague, Czech Republic 
+Roberto García, Universitat de Lleida, Spain 
+Alain Giboin, Universitó Côte d'Azur, Inria, CNRS, I3S, France 
+Anika Groß, University of Leipzig, Germany 
+Willem Robert van Hage, Netherlands eScience Center, The Netherlands 
+Ali Hasnain, The Insight Centre for Data Analytics, Ireland 
+Eero Hyvönen, Aalto University & University of Helsinki, Finland 
+Tomi Kauppinen, Aalto University School of Science, Finland 
+Ali Khalili, Vrije Universiteit Amsterdam, The Netherlands 
+Paul Mulholland, Knowledge Media Institute, The Open University, UK 
+Stefan Negru, MSD IT Global Innovation Center, Czech Republic 
+Francesco Osborne, Knowledge Media Institute, The Open University, UK 
+Paul Parsons, Purdue University, USA 
+Silvio Peroni, University of Bologna & CNR-ISTC, Italy 
+Emmanuel Pietriga, INRIA Saclay, France 
+Harald Sack, Leibniz Institute for Information Infrastructure & KIT Karlsruhe, Germany 
+Daniel Schwabe, Pontifical Catholic University of Rio de Janeiro, Brazil 
+Kamran Sedig, University of Western Ontario, Canada 
+Ahmet Soylu, Norwegian University of Science and Technology, Norway 
+Gem Stapleton, University of Brighton, UK 
+Markel Vigo, University of Manchester, UK 
+Simon Walk, Stanford University, USA 

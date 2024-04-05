@@ -1,0 +1,17 @@
+.thumbnails img {
+    border: 4px solid #FFF;
+    padding: 1px;
+    margin: 0 4px 4px 0;
+}
+
+.thumbnails img:hover {
+    border: 4px solid #00ccff;
+    cursor: pointer;
+}
+
+.uHeader{
+    margin-top: -25px;
+}
+.uContent{
+    padding-top: 50px;
+}

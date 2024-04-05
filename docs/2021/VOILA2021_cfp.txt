@@ -1,0 +1,81 @@
+CALL FOR CONTRIBUTIONS
+
+VOILA 2021 - Visualization and Interaction for Ontologies and Linked Data
+
+6th International Workshop at ISWC 2021, 20th International Semantic Web Conference
+October 24 or 25, 2021, Virtual Workshop
+
+http://voila2021.visualdataweb.org
+
+Paper submission and reviewing for this workshop are organized via EasyChair.
+https://easychair.org/conferences/?conf=voila2021
+
+
+--------------------------------------------------
+Abstracts Deadline: June 28, 2021
+Submission Deadline: July 05, 2021
+--------------------------------------------------
+
+We are looking for submissions addressing one or more of the following topics, subjects, and contexts (or related ones):
+
+* Topics:
+	- visualizations
+	- user interfaces
+	- visual analytics
+	- requirements analysis
+	- case studies
+	- user evaluations
+	- cognitive aspects
+        - context-aware visualizations and interactions
+        - applications for new interaction techniques (e.g., touch, gestures, etc.)
+        - mobile user interfaces
+	
+* Subjects:
+	- ontologies
+	- linked data
+	- knowledge graphs
+	- ontology engineering (development, collaboration, ontology design patterns, alignment, debugging, evolution, provenance, etc.)
+	
+* Contexts:
+	- classical interaction contexts (desktop, keyboard, mouse, etc.)
+	- modern interaction contexts (mobile, touch, gesture, speech, etc.)
+	- special settings (large, high-resolution, and multiple displays, etc.)
+	- specific user groups and needs (people with disabilities, domain experts, etc.) 
+
+
+Submission Guidelines
+==========
+
+The following types of contributions are welcome. The recommended page length is given in brackets. There is NO strict page limit but the length of a paper should be commensurate with its contribution.
+
+      - Full research papers (8-12 pages);
+      - Experience papers (8-12 pages);
+      - Position papers (6-8 pages);
+      - Short research papers (4-6 pages);
+      - System papers (4-6 pages).
+
+Accepted papers will be published as a volume in the CEUR Workshop Proceedings series.
+
+
+Important Dates
+==========
+
+Abstract: June 28, 2021
+Submission: July 05, 2021
+Notification: July 28, 2021
+Camera-ready: September 01, 2021
+Workshop: October 24 or 25, 2021
+
+
+Organizers
+==========
+
+Patrick Lambrix, Linköping University, Sweden
+Catia Pesquita, University of Lisbon, Portugal
+Vitalis Wiens, TIB, L3S, Leibniz University Hannover, Germany 
+
+
+Looking forward to your submissions & meeting you there!
+
+Catia, Patrick, and Vitalis
+

@@ -1,0 +1,79 @@
+CALL FOR PAPERS
+
+VOILA 2015 - Visualizations and User Interfaces for Ontologies and Linked Data
+
+International Workshop at ISWC 2015, 14th International Semantic Web Conference
+October 11, 2015, Bethlehem, Pennsylvania, USA
+
+http://voila2015.visualdataweb.org
+
+
+--------------------------------------------------
+Submission Deadline Extended : July 10, 2015 
+--------------------------------------------------
+
+
+Motivation and Objectives
+==========
+
+"A picture is worth a thousand words", we often say, yet many areas are in demand of sophisticated visualization techniques, and the Semantic Web is not an exception. The size and complexity of ontologies and Linked Data in the Semantic Web constantly grow and the diverse backgrounds of the users and application areas multiply at the same time. Providing users with visual representations and intuitive user interfaces can significantly aid the understanding of the domains and knowledge represented by ontologies and Linked Data. There is no "one size fits all" solution but different use cases demand different visualization and interaction techniques. Ultimately, providing better user interfaces and visual representations will foster user engagement and likely lead to higher quality results in different applications employing ontologies and to the proliferation of Linked Data usage.
+
+User interfaces are essential to easily provide access to the increasing diversity of knowledge modeled in ontologies. As ontologies grow in size and complexity, the demand for comprehensive visualization and sophisticated interaction also rises. In particular, user interfaces are an integral part of ontology engineering, to help bridge the gap between domain experts and ontology engineers. Ontology visualization is not a new topic and a number of approaches have become available in recent years, with some being already well-established, particularly in the field of ontology modeling. In other areas of ontology engineering, such as ontology alignment and debugging, although several tools have recently been developed, few provide a graphical user interface, not to mention navigational aids or comprehensive visualization techniques.
+
+While ontology users usually possess domain and/or knowledge representation expertise, this is not necessarily the case with potential Linked Data consumers who can come from very different backgrounds and have varying levels of expertise. Currently, the main Linked Data consumers are technology experienced users, one of the reasons being the lack of appropriate user interfaces and visualizations to support other user groups. Visual approaches are needed to assist various kinds of users, who pursue diverse goals and pose individual requirements. In the presence of a huge network of interconnected resources, one of the challenges faced by the Linked Data community is the visualization of the multidimensional datasets to provide for efficient overview, exploration and querying tasks, to mention just a few. With the focus shifting from a Web of Documents to a Web of Data, changes in the interaction paradigms are in demand as well. Novel approaches also need to take into consideration the technological challenges and opportunities given by new interaction contexts, ranging from mobile and touch interaction to visualizations on large displays, and encompassing highly responsive web applications. 
+
+
+Topics of Interest
+==========
+
+Topics of interest include (but are not limited to):
+- Visualizations for (large and complex) ontologies;
+- Visualization of ontology design patterns;
+- Linked Data visualizations and user interfaces;
+- Visualizations and user interfaces for ontology engineering (ontology development, alignment, debugging, etc.);
+- Requirements analysis for ontology and Linked Data visualizations;
+- Case studies of applying visualizations in ontology engineering and Linked Data consumption;
+- Context-aware visualization and interaction techniques;
+- Applications of novel interaction techniques (e.g., touch and gesture interaction);
+- User interfaces for collaborative ontology development;
+- Ontology visualizations for large and high-resolution displays;
+- Mobile user interfaces for ontology engineering and Linked Data exploration;
+- User interfaces assisting people with disabilities;
+- Visual exploration and querying of Linked Data.
+
+
+Submission Guidelines
+==========
+
+Paper submission and reviewing for this workshop will be electronic via EasyChair. The papers should be written in English, following the Springer LNCS format, and be submitted in PDF.
+The following types of contributions are welcome:
+- Full research papers (8-12 pages);
+- Experience papers (8-12 pages);
+- Position papers (6-8 pages);
+- Short research papers (4-6 pages);
+- System papers (4-6 pages).
+
+Accepted papers will be published as a volume in the CEUR Workshop Proceedings series.
+
+
+Important Dates
+==========
+
+Submission: July 10, 2015
+Notification: July 30, 2015
+Camera-ready: August 14, 2015
+
+
+Attendance
+==========
+
+Note that workshop attendees cannot register for the workshop only, but need to register for the main conference, as well.
+
+
+Organizers
+==========
+
+Valentina Ivanova, Linköping University, Sweden
+Patrick Lambrix, Linköping University, Sweden
+Steffen Lohmann, University of Stuttgart, Germany
+Catia Pesquita, University of Lisbon, Portugal
