@@ -1,1 +1,2 @@
-# voila-workshop.github.io
+## This is the host for VOILA! workshop  
+voila-workshop.github.io
