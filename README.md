@@ -1,4 +1,4 @@
-## This is the host for VOILA! workshop  
+## This is the webpages host for VOILA! workshop
 
 The websites of Voila workshop series are deployed from the `docs` folder in this repo.
 
