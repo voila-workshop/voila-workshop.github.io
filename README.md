@@ -22,7 +22,7 @@ $ git pull
 ```bash
 $ git add docs/2024/index.html
 $ git commit -m "update voila 2024 webpage"
-$ git pus
+$ git push
 ```
 
 5. At the GitHub page, go to `Actions` to check the deployment workflow. It may take seconds.
